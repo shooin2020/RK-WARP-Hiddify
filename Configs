@@ -1,11 +1,3 @@
-//profile-title: RK-WARP
-//profile-update-interval: 48
-#attention! Just Replace New Clean IPs (Replace All in Notepad). 
-#attention! 10 Clean IPs Used In this Profile. 
-#attention! The Clean IPs are Specified in Configs (IR-PLUS,IR1,...,IR9) & (DE-PLUS,DE1,...,DE9).
-#attention! This Configs Link : https://raw.githubusercontent.com/shooin2020/RK-WARP-Hiddify/refs/heads/main/Configs
-#attention! Github Account: shooin2020
-
 
 warp://188.114.99.89:908?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#IR1
 warp://162.159.193.154:908?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#IR2
